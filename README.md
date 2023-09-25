@@ -3,7 +3,7 @@
 
 <!---![Course Logo](course_logo.png) --->
 
-This repository contains my work and assignments from the Coursera "TensorFlow Advanced Techniques Specialization" offered by DeepLearning.AI. This specialization comprises a series of advanced courses on TensorFlow, covering a wide range of topics in deep learning and machine learning.
+This repository contains my work and assignments from the Coursera "[TensorFlow Advanced Techniques Specialization](https://www.coursera.org/specializations/tensorflow-advanced-techniques)" offered by [DeepLearning.AI](https://deeplearning.ai). This specialization comprises a series of advanced courses on TensorFlow, covering a wide range of topics in deep learning and machine learning.
 
 ## Specialization Overview
 
@@ -37,5 +37,5 @@ pip install -r requirements.txt
 
 ## Acknowledgments
 
-I would like to express my gratitude to DeepLearning.AI and Coursera for offering this specialization and providing valuable knowledge in TensorFlow advanced techniques.
+I would like to express my gratitude to [DeepLearning.AI](https://deeplearning.ai) and [Coursera](https://www.coursera.org/) for offering this specialization and providing valuable knowledge in TensorFlow advanced techniques.
 
