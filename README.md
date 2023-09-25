@@ -7,21 +7,21 @@ This repository contains my work and assignments from the Coursera "[TensorFlow 
 
 ## Specialization Overview
 
-- **Course 1:** Custom Models, Layers, and Loss Functions
-  - Description: This course focuses on building custom neural network models, layers, and loss functions to address specific machine learning problems.
-  - Folder: `C1_custom_models_layers_loss`
+- **Course 1:** Custom Models, Layers, and Loss Functions with TensorFlow
+  - Description: This course focuses on building custom neural network models, layers, and loss functions to address specific machine learning problems using Functional API from TensorFlow
+  - Folder: [`C1_Custom Models, Layers, and Loss Functions with TensorFlow`](https://github.com/dween46/coursera-TensorFlow-Advanced-Techniques-Specialization/tree/main/C1_Custom%20Models%2C%20Layers%2C%20and%20Loss%20Functions%20with%20TensorFlow)
 
 - **Course 2:** Custom and Distributed Training
   - Description: This course covers custom training loops and distributed training strategies for scaling up machine learning models.
-  - Folder: `C2_custom_distributed_training`
+  - Folder: `C2_Custom and Distributed Training with TensorFlow`
 
 - **Course 3:** Advanced Computer Vision with TensorFlow
   - Description: This course explores advanced computer vision techniques, including object detection, image segmentation, and more.
-  - Folder: `C3_advanced_computer_vision`
+  - Folder: `C3_Advanced Computer Vision with TensorFlow`
 
 - **Course 4:** Generative Deep Learning with TensorFlow
   - Description: This course dives into generative models like Variational Autoencoders (VAEs) and Generative Adversarial Networks (GANs) using TensorFlow.
-  - Folder: `C4_generative_deep_learning`
+  - Folder: `C4_Generative Deep Learning with TensorFlow`
 
 ## Usage
 
