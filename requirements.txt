@@ -1,0 +1,7 @@
+numpy
+pandas
+tenosorflow==2.13.0
+matplotlib
+graphviz
+pydot
+sklearn
